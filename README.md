@@ -1,4 +1,6 @@
 # Py-Assist-Personal-Assistant
+Link to video of implementation: https://drive.google.com/file/d/1rfdkksj1vLc_pNUJBNbd_dWrbFFytn9N/view?usp=sharing
+
 Python Personal Laptop Assistant( does not run on AI or ML) which uses Speech Recognition and also answers queries
 Uses basic Python Automation 
 Greets you
